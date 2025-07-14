@@ -20,3 +20,4 @@ Key Highlights:
 ⁕ Fully responsive layout
 ⁕ Clean UI inspired by Facebook's legacy design
 ⁕ Strengthened my understanding of frontend structuring and UI alignment
+<img width="1887" height="861" alt="Screenshot 2025-07-13 213901" src="https://github.com/user-attachments/assets/2ec051c4-2680-47cf-9250-f59e25c99852" />
