@@ -1,23 +1,22 @@
-✅ Project Title: Facebook Login Page Clone
-Time Period: August 2024
+# Facebook Old Login Page UI Clone
 
-Project URL: [facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app](https://facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app/)
-
-Associated With: Brototype
-
-Description:
-As my first hands-on project in full stack development, I recreated the classic Facebook login/signup page using HTML and CSS. This project was built while following the “Web Desighning Challenge” playlist on the Brototype Malayalam YouTube channel. It helped me understand layout design, form structuring, and styling fundamentals.
-Currently, I'm enhancing my skills through the Brocamp 7-month offline program in Hub, focused on building real-world web applications from the ground up.
-
-Tech Stack:
-
-⁕ HTML
-⁕ CSS
-⁕ Deployed using Vercel
-
-Key Highlights:
-
-⁕ Fully responsive layout
-⁕ Clean UI inspired by Facebook's legacy design
-⁕ Strengthened my understanding of frontend structuring and UI alignment
 <img width="1887" height="861" alt="Screenshot 2025-07-13 213901" src="https://github.com/user-attachments/assets/2ec051c4-2680-47cf-9250-f59e25c99852" />
+
+## Overview
+This project is a front-end clone of Facebook’s classic login and sign-up page interface. It faithfully reproduces the traditional layout, colors, and form structure used in the older version of Facebook. The clone is built purely with HTML and CSS for UI, and jQuery for basic form validation. It serves as a practical exercise in recreating real-world UI patterns and improving front-end development skills.
+
+## Features
+- Classic Facebook login and sign-up page UI recreated
+- Fully structured header, login form, and account creation section  
+- Clean layout with gradient background matching old FB design  
+- jQuery validation setup for form handling  
+- Pixel-perfect alignment and typography  
+- No backend required; front-end only  
+
+## Tech Stack
+- HTML5  
+- CSS3  
+- jQuery  
+
+## Live Demo
+Demo Link: [facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app](https://facebook-old-login-page-suhaib-nadakkavils-projects.vercel.app/)
